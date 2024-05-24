@@ -1,0 +1,11 @@
+{
+    "name": "flxanimate",
+    "url": "https://github.com/MarzkX/flxanimate/",
+    "license": "MIT",
+    "tags": ["adobe","flash","animate","texture_sheet", "flixel"],
+    "description": "Adobe Animate's texture atlases player for HaxeFlixel.",
+    "version": "git",
+    "releasenote": "Revamp several issues, and introducing filters on HaxeFlixel.",
+    "contributors": ["DotWith","MrCheemsAndFriends"],
+    "dependencies": {}
+}
